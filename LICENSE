@@ -19,3 +19,40 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+    {
+
+"mob": "minecraft:zombie",
+
+"persecond": 5,
+
+"attempts": 40,
+
+"amount": {
+
+"minimum": 40,
+
+"maximum": 130
+
+},
+
+"conditions": {
+
+"dimension": "minecraft:overworld",
+
+"norestrictions": false,
+
+"mindist": 15,
+
+"maxdist": 70,
+
+"minheight": 1,
+
+"maxheight": 256,
+
+"maxthis": 150
+
+}
+
+}
+
+]
