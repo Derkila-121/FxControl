@@ -1,0 +1,39 @@
+[
+
+{
+
+"mob": "minecraft:zombie",
+
+"persecond": 5,
+
+"attempts": 40,
+
+"amount": {
+
+"minimum": 40,
+
+"maximum": 130
+
+},
+
+"conditions": {
+
+"dimension": "minecraft:overworld",
+
+"norestrictions": false,
+
+"mindist": 15,
+
+"maxdist": 70,
+
+"minheight": 1,
+
+"maxheight": 256,
+
+"maxthis": 150
+
+}
+
+}
+
+]
